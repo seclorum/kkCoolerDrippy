@@ -22,4 +22,4 @@ The materials are provided on the basis of the MIT License,
 Minimal 3D-printed scaffolding for Kelly Kettle water distillation
 Adapts spout for tubing and supports condenser coil
 
-[model1.png]
+![model1.scad](model1.png)
