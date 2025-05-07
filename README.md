@@ -1,4 +1,4 @@
-Kelly Kettle Cooler / Drippy Project
+## Kelly Kettle Cooler / Drippy Project
 
 This is an experimental project and under no circumstances
 are these models intended for real-life applications.  This
@@ -15,3 +15,11 @@ The author of this repository accepts no responsibility for
 the mis-use of this project.
 
 The materials are provided on the basis of the MIT License,
+
+
+# model1.scad
+
+Minimal 3D-printed scaffolding for Kelly Kettle water distillation
+Adapts spout for tubing and supports condenser coil
+
+[model1.png]
