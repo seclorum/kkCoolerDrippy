@@ -23,3 +23,10 @@ Minimal 3D-printed scaffolding for Kelly Kettle water distillation
 Adapts spout for tubing and supports condenser coil
 
 ![model1.scad](model1.png)
+
+
+# model2.scad
+3D-printed scaffolding for Kelly Kettle distillation with water intake and steerable steam nozzle
+Supports water replenishment and ~270-degree steam direction
+ 
+![model2.scad](model2.png)
